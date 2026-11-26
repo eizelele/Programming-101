@@ -2,4 +2,4 @@
 
 ##Feature - resources
 
-###Helpsul Resource for u
+###Helpful Resources for you
